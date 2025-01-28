@@ -1,5 +1,4 @@
 Hi there 👋 I'm Jimmy Lucas 🌟
-<img align="left" width="500" src="https://i.postimg.cc/Your-Image-Path.jpg">
 
 Currently residing in Barcelona, Spain 🌆
 
@@ -15,4 +14,5 @@ Currently residing in Barcelona, Spain 🌆
 
 🎧 To relax, I enjoy grabbing something to eat, walking around Barcelona, or listening to music to unwind.
 
-[MOOD](https://music.apple.com/es/playlist/mood/pl.u-d2b05ZLIL4rvAIm?!=en)
+🎧 Escucha mi playlist en Apple Music: [Mood Playlist](https://music.apple.com/es/playlist/mood/pl.u-d2b05ZLIL4rvAlm?l=en)
+
