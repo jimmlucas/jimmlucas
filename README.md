@@ -14,5 +14,5 @@ Currently residing in Barcelona, Spain 🌆
 
 🎧 To relax, I enjoy grabbing something to eat, walking around Barcelona, or listening to music to unwind.
 
-🎧 Escucha mi playlist en Apple Music: [Mood Playlist](https://music.apple.com/es/playlist/mood/pl.u-d2b05ZLIL4rvAlm?l=en)
+🎧 playlist: [Mood Playlist](https://music.apple.com/es/playlist/mood/pl.u-d2b05ZLIL4rvAlm?l=en)
 
