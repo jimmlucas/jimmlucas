@@ -12,7 +12,15 @@ Currently residing in Barcelona, Spain 🌆
 
 📘 I am actively exploring innovative technologies and methodologies in bioinformatics to enhance microbiological research.
 
-🎧 To relax, I enjoy grabbing something to eat, walking around Barcelona, or listening to music to unwind.
+## :octocat: My Github stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jimmlucas&count_private=true&show_icons=true&theme=vue&hide_title=True">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmlucas&hide=html&theme=vue&layout=compact">
+
+</p>
+
 
 🎧 playlist: [Mood Playlist](https://music.apple.com/es/playlist/mood/pl.u-d2b05ZLIL4rvAlm?l=en)
 
