@@ -1,6 +1,6 @@
 Hi there 👋 I'm Jimmy Lucas 🌟
 
-Currently residing in Barcelona, Spain 🌆
+Currently residing in Barcelona :es: I’m currently learning 🇩🇪 
 
 🔬 I am a Bioinformatician and Data Scientist. My expertise focuses on microbial evolution, multi-drug resistance (MDR), and microbial community dynamics. 🧬
 
