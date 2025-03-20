@@ -1,6 +1,9 @@
-Hi there 👋 I'm Jimmy Lucas 🌟
+Hi there 👋 
 
-Currently residing in Barcelona :es: I’m currently learning 🇩🇪 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=12A76E&lines=Welcome+to+Mars+🧑‍🚀!)](https://git.io/typing-svg)
+
+Residing in Barcelona :es: 
+I’m currently learning 🇩🇪 
 
 🔬 I am a Bioinformatician and Data Scientist. My expertise focuses on microbial evolution, multi-drug resistance (MDR), and microbial community dynamics. 🧬
 
@@ -22,5 +25,5 @@ Currently residing in Barcelona :es: I’m currently learning 🇩🇪
 </p>
 
 
-🎧 playlist: [Mood Playlist](https://music.apple.com/es/playlist/mood/pl.u-d2b05ZLIL4rvAlm?l=en)
+## Some Music: [Mood Playlist](https://music.apple.com/es/playlist/mood/pl.u-d2b05ZLIL4rvAlm?l=en)
 
